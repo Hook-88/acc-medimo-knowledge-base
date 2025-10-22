@@ -15,15 +15,19 @@ Dit artikel beschrijft hoe je de dosering opgeeft in de weergave **Regulier**. I
 
 Bovenin worden vakjes voor de standaardtoedientijden. Daar geeft u per standaardtoedientijd een dosering op. Deze tijden worden per afdeling door uw zorginstelling ingesteld. U kunt hier hele getallen, decimalen en X (bijvoorbeeld bij aanbrengen) gebruiken.
 
-
+![Weergave regulier - Toedientijden omlijnd](/uploads/weergave-regulier-tt-omlijnd.png "Weergave regulier - Toedientijden omlijnd")
 
 ## Toedieneenheid
 
 Ook wordt hier de toedieneenheid getoond. Deze kunt u desgewenst aanpassen.
 
+![](/uploads/weergave-regulier-te-omlijnd.png)
+
 ## Interval
 
 Rechts van de toedieneenheid wordt het interval getoond. Als u hierop klikt kunt u typen om te zoeken naar een interval.
+
+![](/uploads/weergave-regulier-ti-omlijnd.png)
 
 Er zijn twee typen intervallen:
 
@@ -35,6 +39,21 @@ Voor het interval zonder specifieke weekdag wordt de **start per** gebruikt om d
 ## Gebruik (continu, tijdelijk en zo nodig)
 
 Onder de toedientijden kiest u voor een continu of tijdelijk gebruik. Kiest u hier tijdelijk, dan wordt er gevraagd om een stop per op te geven. Daarnaast kunt u de medicatie markeren als **Zo nodig**. Dit kan voor continu en tijdelijk gebruik.
+
+:::tabs
+@tab Gebruik
+
+![](/uploads/weergave-regulier-gebruik-omlijnd.png)
+
+@tab Gebruik tijdelijk
+
+![](/uploads/weergave-regulier-tijdelijk-stop-per-omlijnd.png)
+
+@tab Gebruik zo nodig
+
+![](/uploads/weergave-regulier-zonodig.png)
+
+:::
 
 ## Hoeveelheid
 
