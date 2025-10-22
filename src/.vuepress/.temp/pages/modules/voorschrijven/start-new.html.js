@@ -1,5 +1,5 @@
 import comp from "/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/pages/modules/voorschrijven/start-new.html.vue"
-const data = JSON.parse("{\"path\":\"/modules/voorschrijven/start-new.html\",\"title\":\"Medicatie starten\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Medicatie starten\",\"icon\":\"icon-park-solid:play\",\"order\":1,\"author\":false,\"category\":[\"Voorschrijven\"],\"tag\":[\"Starten,\",\"Nieuw,\",\"Geneesmiddel\"],\"sticky\":true,\"star\":true,\"editLink\":false,\"contributors\":false,\"articleType\":\"web\"},\"readingTime\":{\"minutes\":1.61,\"words\":482},\"filePathRelative\":\"modules/voorschrijven/start-new.md\"}")
+const data = JSON.parse("{\"path\":\"/modules/voorschrijven/start-new.html\",\"title\":\"Medicatie starten\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Medicatie starten\",\"icon\":\"icon-park-solid:play\",\"order\":1,\"category\":[\"Voorschrijven\"],\"tag\":[\"Starten,\",\"Nieuw,\",\"Geneesmiddel\"],\"sticky\":true,\"star\":true,\"articleType\":\"web\"},\"readingTime\":{\"minutes\":1.58,\"words\":474},\"filePathRelative\":\"modules/voorschrijven/start-new.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
