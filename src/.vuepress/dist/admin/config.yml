@@ -1,0 +1,48 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "src/.vuepress/public/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "medimoapp"
+    label: "MedimoApp"
+    folder: "src/app"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Article type"
+        name: "articleType"
+        widget: "select"
+        multiple: false
+        options:
+          - app
+          - web
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+
+  # Voorschrijven
+  - name: "voorschrijven"
+    label: "Voorschrijven"
+    folder: "src/modules/voorschrijven"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Article type"
+        name: "articleType"
+        widget: "select"
+        multiple: false
+        options:
+          - app
+          - web
+      - label: "Tags"
+        name: "tags"
+        widget: "list"

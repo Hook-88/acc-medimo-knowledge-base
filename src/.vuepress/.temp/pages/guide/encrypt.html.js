@@ -1,16 +1,3 @@
 import comp from "/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/pages/guide/encrypt.html.vue"
-const data = JSON.parse("{\"path\":\"/guide/encrypt.html\",\"title\":\"Encryption Article\",\"lang\":\"en-US\",\"frontmatter\":{\"icon\":\"lock\",\"category\":[\"Guide\"],\"tag\":[\"encryption\"]},\"readingTime\":{\"minutes\":0.3,\"words\":90},\"filePathRelative\":\"guide/encrypt.md\"}")
+const data = JSON.parse("{\"path\":\"/guide/encrypt.html\",\"title\":\"Encryption Article\",\"lang\":\"en-US\",\"frontmatter\":{\"icon\":\"lock\",\"category\":[\"Guide\"],\"tag\":[\"encryption\"]},\"git\":{\"createdTime\":1761155763000,\"updatedTime\":1761155763000,\"contributors\":[{\"name\":\"Hook-88\",\"username\":\"Hook-88\",\"email\":\"82540853+Hook-88@users.noreply.github.com\",\"commits\":1,\"url\":\"https://github.com/Hook-88\"}]},\"readingTime\":{\"minutes\":0.3,\"words\":90},\"filePathRelative\":\"guide/encrypt.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

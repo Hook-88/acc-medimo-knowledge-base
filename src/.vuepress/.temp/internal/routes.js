@@ -23,20 +23,3 @@ export const routes = Object.fromEntries([
   ["/modules/voorschrijven/stop-medication.html", { loader: () => import(/* webpackChunkName: "modules_voorschrijven_stop-medication.html" */"/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/pages/modules/voorschrijven/stop-medication.html.js"), meta: {"title":"Medicatie stoppen","icon":"game-icons:stop-sign","order":3} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
 ]);
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateRoutes) {
-    __VUE_HMR_RUNTIME__.updateRoutes(routes)
-  }
-  if (__VUE_HMR_RUNTIME__.updateRedirects) {
-    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ routes, redirects }) => {
-    __VUE_HMR_RUNTIME__.updateRoutes(routes)
-    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
-  })
-}
