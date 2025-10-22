@@ -1,0 +1,4 @@
+[build]
+  base = "src"
+  command = "npm run docs:build"
+  publish = "src/.vuepress/dist"
