@@ -1,30 +1,17 @@
 ---
-# This is the title of the article
-title: Medicatie starten
-# This is the icon of the page
-icon: icon-park-solid:play
-# This control sidebar order
+sticky: true
 order: 1
-# # Set writing time
-# date: 2020-01-01
-# A page can have multiple categories
-category:
-  - Voorschrijven
-# A page can have multiple tags
+articleType: web
+star: true
+title: Medicatie starten
+icon: icon-park-solid:play
 tag:
   - Starten,
   - Nieuw,
   - Geneesmiddel
-# this page is sticky in article list
-sticky: true
-# this page will appear in starred articles
-star: true
-articleType: web
+category: Voorschrijven
 ---
-
 Dit artikel beschrijft hoe je nieuwe medicatie start. In dit artikel gaan we ervan uit dat je bekend bent met de status en hoe je die opzoekt.
-
-<!-- more -->
 
 ## Starten met voorschrijven
 
@@ -32,7 +19,7 @@ In de status wordt de knop **Nieuw** getoond. Hiermee start je met het invoeren 
 
 ## Medicatie selecteren
 
-In het scherm dat wordt getoond, kun je zoeken naar het geneesmiddel. Dit doe je op naam (of deel van). Standaard zoek je in het figerende formularium. Kun je het middel niet vinden, gebruik dan **In hele taxe zoeken**. Je kunt dat medicatie dat niet in het formularium zit opzoeken.
+In het scherm dat wordt getoond, kun je zoeken naar het geneesmiddel. Dit doe je op naam (of deel van). Standaard zoek je in het vigerende formularium. Kun je het middel niet vinden, gebruik dan **In hele taxe zoeken**. Je kunt dat medicatie dat niet in het formularium zit opzoeken.
 
 ## Dosering invoeren
 
@@ -42,7 +29,7 @@ Je kunt de dosering in verschillende weergaves invoeren. Deze zijn:
 
 ### Dosering regulier
 
-Hier een korte toelichting op regulier en een link.
+In de [weergave regulier](./voorschrijven/opgeven-dosering-regulier) kun je per standaardtoedientijd en dosering en gebruik opgeven. 
 
 ### Dosering uitgebreid
 
@@ -62,7 +49,7 @@ You can also create and import your own components.
 
 Aan de rechterzijde wordt medicatiebewaking weergegeven. Deze dien je af te handelen. Je kunt klikken op het signaal voor extra opties. Zo wordt er extra info weergeveven en kun een notitie maken of een bericht sturen.
 
-Door een vinkje in te zetten in het signaal handel je die af. Sigalen met een (\*) zijn verplicht af te handelen.
+Door een vinkje in te zetten in het signaal handel je die af. Sigalen met een (*) zijn verplicht af te handelen.
 
 ## Start per opegeven
 
