@@ -16,5 +16,8 @@
     "vue": "^3.5.22",
     "vuepress": "2.0.0-rc.26",
     "vuepress-theme-hope": "2.0.0-rc.95"
+  },
+  "dependencies": {
+    "netlify-cms-app": "^2.15.72"
   }
 }

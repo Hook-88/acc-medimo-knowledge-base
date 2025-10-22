@@ -5,8 +5,6 @@ title: App instaleren
 icon: icon-park-solid:play
 # This control sidebar order
 order: 1
-# # Set author
-author: false
 # # Set writing time
 # date: 2020-01-01
 # A page can have multiple categories
@@ -24,8 +22,6 @@ tag:
 sticky: true
 # this page will appear in starred articles
 star: true
-editLink: false
-contributors: false
 articleType: app
 ---
 

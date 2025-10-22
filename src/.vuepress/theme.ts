@@ -109,6 +109,7 @@ export default hopeTheme({
     //   plugins: ["highlight", "math", "search", "notes", "zoom"],
     // },
   },
+  pageInfo: ["Original", "Date", "Category", "Tag", "ReadingTime"],
 
   plugins: {
     catalog: {
