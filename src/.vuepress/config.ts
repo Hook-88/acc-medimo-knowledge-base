@@ -9,6 +9,7 @@ export default defineUserConfig({
   title: "Medimo kennisbank",
   description: "Kennisbank van Medimo.",
 
+  // This is for register new users
   head: [
     [
       "script",

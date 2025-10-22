@@ -3,6 +3,7 @@ import { Layout } from "vuepress-theme-hope/client"
 import ArticleFooter from "../components/ArticleFooter.vue";
 import { onMounted } from "vue"
 
+// Make shure user can register via link
 onMounted(() => {
     if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
