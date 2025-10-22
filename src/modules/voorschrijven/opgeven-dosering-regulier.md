@@ -27,3 +27,5 @@ Er zijn twee typen intervallen:
 * Interval zonder specifieke weekdag (bijv. 1x per 10 dagen).
 
 Voor het interval zonder specifieke weekdag wordt de **start per** gebruikt om de toedienmomenten te bepalen.
+
+## G﻿ebruik (continu, tijdelijk  e zo nodig)b
