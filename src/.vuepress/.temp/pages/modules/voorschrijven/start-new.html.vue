@@ -1,14 +1,13 @@
 <template><div><p>Dit artikel beschrijft hoe je nieuwe medicatie start. In dit artikel gaan we ervan uit dat je bekend bent met de status en hoe je die opzoekt.</p>
-<!-- more -->
 <h2 id="starten-met-voorschrijven" tabindex="-1"><a class="header-anchor" href="#starten-met-voorschrijven"><span>Starten met voorschrijven</span></a></h2>
 <p>In de status wordt de knop <strong>Nieuw</strong> getoond. Hiermee start je met het invoeren van nieuwe medicatie.</p>
 <h2 id="medicatie-selecteren" tabindex="-1"><a class="header-anchor" href="#medicatie-selecteren"><span>Medicatie selecteren</span></a></h2>
-<p>In het scherm dat wordt getoond, kun je zoeken naar het geneesmiddel. Dit doe je op naam (of deel van). Standaard zoek je in het figerende formularium. Kun je het middel niet vinden, gebruik dan <strong>In hele taxe zoeken</strong>. Je kunt dat medicatie dat niet in het formularium zit opzoeken.</p>
+<p>In het scherm dat wordt getoond, kun je zoeken naar het geneesmiddel. Dit doe je op naam (of deel van). Standaard zoek je in het vigerende formularium. Kun je het middel niet vinden, gebruik dan <strong>In hele taxe zoeken</strong>. Je kunt dat medicatie dat niet in het formularium zit opzoeken.</p>
 <h2 id="dosering-invoeren" tabindex="-1"><a class="header-anchor" href="#dosering-invoeren"><span>Dosering invoeren</span></a></h2>
 <p>Na het selecteren van de medicatie, wordt een scherm getoond waar je de dosering kunt opgeven. Schrijf je medicatie uit het formularium voor, dan is de dosering vanuit daar vooringevuld. Schrijf je uit de hele taxe voor, dan dien je altijd een dosering op te geven.</p>
 <p>Je kunt de dosering in verschillende weergaves invoeren. Deze zijn:</p>
 <h3 id="dosering-regulier" tabindex="-1"><a class="header-anchor" href="#dosering-regulier"><span>Dosering regulier</span></a></h3>
-<p>Hier een korte toelichting op regulier en een link.</p>
+<p>In de <a href="./opgeven-dosering-regulier">weergave regulier</a> kun je per standaardtoedientijd en dosering en gebruik opgeven.</p>
 <h3 id="dosering-uitgebreid" tabindex="-1"><a class="header-anchor" href="#dosering-uitgebreid"><span>Dosering uitgebreid</span></a></h3>
 <p>Hier een korte toelichting op uitgebreid en een link.</p>
 <h3 id="dosering-schema" tabindex="-1"><a class="header-anchor" href="#dosering-schema"><span>Dosering schema</span></a></h3>
