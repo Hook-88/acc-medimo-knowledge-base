@@ -1,0 +1,28 @@
+// place your custom styles here
+a.header-anchor {
+
+    // Override the default content to be a hash symbol
+    &::before {
+        content: '#';
+        // You might also want to adjust spacing if the original 'P' had different dimensions
+        margin-right: 1.25em; // Adjust as needed for spacing
+        // Inherit text color for consistency
+        color: inherit;
+        line-height: 1em;
+    }
+}
+
+.vp-page {
+    // background-color: red;
+    width: 800px;
+}
+
+main.vp-page.vp-project-home {
+    background-color: red;
+    width: 100% !important
+}
+
+#markdown-content {
+    // background-color: red;
+    max-width: 800px;
+}
