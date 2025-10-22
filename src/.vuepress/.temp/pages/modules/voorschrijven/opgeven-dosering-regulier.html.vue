@@ -11,6 +11,7 @@
 <li>Interval zonder specifieke weekdag (bijv. 1x per 10 dagen).</li>
 </ul>
 <p>Voor het interval zonder specifieke weekdag wordt de <strong>start per</strong> gebruikt om de toedienmomenten te bepalen.</p>
+<h2 id="g-ebruik-continu-tijdelijk-e-zo-nodig-b" tabindex="-1"><a class="header-anchor" href="#g-ebruik-continu-tijdelijk-e-zo-nodig-b"><span>G﻿ebruik (continu, tijdelijk  e zo nodig)b</span></a></h2>
 </div></template>
 
 

@@ -13,6 +13,7 @@ collections:
     folder: "src/app"
     create: true
     slug: "{{slug}}"
+    format: "frontmatter"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Category", name: "category", widget: "string" }
@@ -34,6 +35,7 @@ collections:
     folder: "src/modules/voorschrijven"
     create: true
     slug: "{{slug}}"
+    format: "frontmatter"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Category", name: "category", widget: "string" }
