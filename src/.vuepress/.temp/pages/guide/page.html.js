@@ -1,3 +1,16 @@
 import comp from "/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/pages/guide/page.html.vue"
-const data = JSON.parse("{\"path\":\"/guide/page.html\",\"title\":\"Page Config\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Page Config\",\"icon\":\"file\",\"order\":3,\"author\":\"Ms.Hope\",\"date\":\"2020-01-01T00:00:00.000Z\",\"category\":[\"Guide\"],\"tag\":[\"Page config\",\"Guide\"],\"sticky\":true,\"star\":true,\"footer\":\"Footer content for test\",\"copyright\":\"No Copyright\"},\"git\":{\"createdTime\":1761155763000,\"updatedTime\":1761155763000,\"contributors\":[{\"name\":\"Hook-88\",\"username\":\"Hook-88\",\"email\":\"82540853+Hook-88@users.noreply.github.com\",\"commits\":1,\"url\":\"https://github.com/Hook-88\"}]},\"readingTime\":{\"minutes\":1.14,\"words\":341},\"filePathRelative\":\"guide/page.md\"}")
+const data = JSON.parse("{\"path\":\"/guide/page.html\",\"title\":\"Page Config\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Page Config\",\"icon\":\"file\",\"order\":3,\"author\":\"Ms.Hope\",\"date\":\"2020-01-01T00:00:00.000Z\",\"category\":[\"Guide\"],\"tag\":[\"Page config\",\"Guide\"],\"sticky\":true,\"star\":true,\"footer\":\"Footer content for test\",\"copyright\":\"No Copyright\"},\"readingTime\":{\"minutes\":1.14,\"words\":341},\"filePathRelative\":\"guide/page.md\"}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

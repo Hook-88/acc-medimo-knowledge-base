@@ -23,7 +23,10 @@ export default navbar([
     text: "MedimoApp",
     link: "/app/",
   },
-  "admin",
+  {
+    text: "Admin",
+    link: "/admin/",
+  },
 
   //   {
   //     text: "Guide",
