@@ -29,7 +29,7 @@ Je kunt de dosering in verschillende weergaves invoeren. Deze zijn:
 
 ### Dosering regulier
 
-In de [weergave regulier](./voorschrijven/opgeven-dosering-regulier) kun je per standaardtoedientijd en dosering en gebruik opgeven. 
+In de [weergave regulier](./opgeven-dosering-regulier) kun je per standaardtoedientijd en dosering en gebruik opgeven. 
 
 ### Dosering uitgebreid
 
