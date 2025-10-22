@@ -28,8 +28,4 @@ Er zijn twee typen intervallen:
 
 Voor het interval zonder specifieke weekdag wordt de **start per** gebruikt om de toedienmomenten te bepalen.
 
-## Gebruik (continu, tijdelijk e zo nodig)
-
-wat doet die nu dan?
-
-## Het zal toch niet
+## Gebruik (continu, tijdelijk en zo nodig)
