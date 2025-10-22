@@ -25,7 +25,7 @@ export default navbar([
   },
   {
     text: "Admin",
-    link: "/admin/#",
+    link: "https://acc-medimo-kb.netlify.app/admin",
   },
 
   //   {
