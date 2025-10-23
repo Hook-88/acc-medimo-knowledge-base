@@ -28,11 +28,14 @@ export default defineUserConfig({
 
   plugins: [
     docsearchPlugin({
-      appId: "YOUR_APP_ID",
-      apiKey: "YOUR_SEARCH_API_KEY",
+      appId: "D4MZD1C7ER",
+      apiKey: "009150d188c840ffc15f7c446866524e",
       indices: [
         {
-          name: "medimo_kb_crawler",
+          name: "medimo_articles",
+        },
+        {
+          name: "medimo_pages",
         },
       ],
       locales: {
