@@ -1,21 +1,22 @@
 ---
+author: false
 title: Medicatie wijzigen
-icon: simple-icons:changedetection
 order: 2
-category:
-  - Voorschrijven
+articleType: web
+tags:
+  - muteren
+  - aanpassen
+  - medicatie
+icon: simple-icons:changedetection
 tag:
   - Wijzigen
   - Geneesmiddel
   - Muteren
   - Dosering aanpassen
-
-author: false
+category:
+  - Voorschrijven
 ---
-
-Dit artikel beschrijft hoe je bestaande medicatie wijzigt. In dit artikel gaan we ervan uit dat je bekend bent met de status en hoe je die opzoekt.
-
-<!-- more -->
+# Medicatie wijzigen
 
 ## Overzicht medicatiebehandeling openen
 
