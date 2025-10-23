@@ -128,6 +128,9 @@ export default hopeTheme({
       indices: [
         {
           name: "medimo_pages",
+          searchParameters: {
+            facetFilters: [],
+          },
         },
       ],
       locales: {
