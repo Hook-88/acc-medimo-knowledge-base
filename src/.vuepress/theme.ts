@@ -132,6 +132,12 @@ export default hopeTheme({
             facetFilters: [],
           },
         },
+        {
+          name: "medimo_articles",
+          searchParameters: {
+            facetFilters: [],
+          },
+        },
       ],
       locales: {
         "/": {
