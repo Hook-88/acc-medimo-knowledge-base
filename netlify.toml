@@ -2,17 +2,18 @@
   command = "npm ci && npm run docs:build"
   publish = "src/.vuepress/dist"
 
+[build.environment]
+  NODE_VERSION = "20"
+
 [[headers]]
   for = "/*"
   [headers.values]
     X-Robots-Tag = "all"
     Access-Control-Allow-Origin = "*"
 
-# Ensure no authentication is required
 [context.production]
   environment = { NODE_VERSION = "18" }
 
-# Optional: Set cache headers
 [[headers]]
   for = "/assets/*"
   [headers.values]
