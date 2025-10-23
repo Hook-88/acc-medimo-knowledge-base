@@ -12,6 +12,13 @@ export default defineUserConfig({
   // This is for register new users
   head: [
     [
+      "meta",
+      {
+        name: "algolia-site-verification",
+        content: "2A12CAC6C57275C7",
+      },
+    ],
+    [
       "script",
       { src: "https://identity.netlify.com/v1/netlify-identity-widget.js" },
     ],
