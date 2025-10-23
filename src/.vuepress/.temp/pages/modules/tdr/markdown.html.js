@@ -1,5 +1,5 @@
 import comp from "/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/pages/modules/tdr/markdown.html.vue"
-const data = JSON.parse("{\"path\":\"/modules/tdr/markdown.html\",\"title\":\"Markdown Enhance\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Markdown Enhance\",\"icon\":\"fa6-brands:markdown\",\"order\":2,\"category\":[\"Guide\"],\"tag\":[\"Markdown\"],\"gitInclude\":[\"README.md\"]},\"readingTime\":{\"minutes\":2.33,\"words\":699},\"filePathRelative\":\"modules/tdr/markdown.md\"}")
+const data = JSON.parse("{\"path\":\"/modules/tdr/markdown.html\",\"title\":\"Markdown Enhance\",\"lang\":\"nl-NL\",\"frontmatter\":{\"title\":\"Markdown Enhance\",\"icon\":\"fa6-brands:markdown\",\"order\":2,\"category\":[\"Guide\"],\"tag\":[\"Markdown\"],\"gitInclude\":[\"README.md\"]},\"readingTime\":{\"minutes\":2.33,\"words\":699},\"filePathRelative\":\"modules/tdr/markdown.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

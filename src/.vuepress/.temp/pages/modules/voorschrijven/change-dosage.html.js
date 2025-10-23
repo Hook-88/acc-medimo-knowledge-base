@@ -1,5 +1,5 @@
 import comp from "/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/pages/modules/voorschrijven/change-dosage.html.vue"
-const data = JSON.parse("{\"path\":\"/modules/voorschrijven/change-dosage.html\",\"title\":\"Medicatie wijzigen\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Medicatie wijzigen\",\"icon\":\"simple-icons:changedetection\",\"order\":2,\"category\":[\"Voorschrijven\"],\"tag\":[\"Wijzigen\",\"Geneesmiddel\",\"Muteren\",\"Dosering aanpassen\"],\"author\":false},\"readingTime\":{\"minutes\":0.74,\"words\":222},\"filePathRelative\":\"modules/voorschrijven/change-dosage.md\"}")
+const data = JSON.parse("{\"path\":\"/modules/voorschrijven/change-dosage.html\",\"title\":\"Medicatie wijzigen\",\"lang\":\"nl-NL\",\"frontmatter\":{\"author\":false,\"title\":\"Medicatie wijzigen\",\"order\":2,\"articleType\":\"web\",\"tags\":[\"muteren\",\"aanpassen\",\"medicatie\"],\"icon\":\"simple-icons:changedetection\",\"tag\":[\"Wijzigen\",\"Geneesmiddel\",\"Muteren\",\"Dosering aanpassen\"],\"category\":[\"Voorschrijven\"]},\"readingTime\":{\"minutes\":0.67,\"words\":202},\"filePathRelative\":\"modules/voorschrijven/change-dosage.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

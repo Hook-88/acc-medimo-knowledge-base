@@ -1,5 +1,4 @@
-<template><div><p>Dit artikel beschrijft hoe je bestaande medicatie wijzigt. In dit artikel gaan we ervan uit dat je bekend bent met de status en hoe je die opzoekt.</p>
-<!-- more -->
+<template><div><h1 id="medicatie-wijzigen" tabindex="-1"><a class="header-anchor" href="#medicatie-wijzigen"><span>Medicatie wijzigen</span></a></h1>
 <h2 id="overzicht-medicatiebehandeling-openen" tabindex="-1"><a class="header-anchor" href="#overzicht-medicatiebehandeling-openen"><span>Overzicht medicatiebehandeling openen</span></a></h2>
 <p>Klik in de status op de medicatieregel die je wilt aanpassen. Hiermee open je het overzicht medicatiebehandeling.</p>
 <h2 id="starten-met-wijzigen" tabindex="-1"><a class="header-anchor" href="#starten-met-wijzigen"><span>Starten met wijzigen</span></a></h2>

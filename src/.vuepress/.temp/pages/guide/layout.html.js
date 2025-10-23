@@ -1,5 +1,5 @@
 import comp from "/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/pages/guide/layout.html.vue"
-const data = JSON.parse("{\"path\":\"/guide/layout.html\",\"title\":\"Layout\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Layout\",\"icon\":\"object-group\",\"order\":2,\"category\":[\"Guide\"],\"tag\":[\"Layout\"]},\"readingTime\":{\"minutes\":0.35,\"words\":106},\"filePathRelative\":\"guide/layout.md\"}")
+const data = JSON.parse("{\"path\":\"/guide/layout.html\",\"title\":\"Layout\",\"lang\":\"nl-NL\",\"frontmatter\":{\"title\":\"Layout\",\"icon\":\"object-group\",\"order\":2,\"category\":[\"Guide\"],\"tag\":[\"Layout\"]},\"readingTime\":{\"minutes\":0.35,\"words\":106},\"filePathRelative\":\"guide/layout.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

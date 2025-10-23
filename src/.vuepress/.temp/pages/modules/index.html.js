@@ -1,5 +1,5 @@
 import comp from "/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/pages/modules/index.html.vue"
-const data = JSON.parse("{\"path\":\"/modules/\",\"title\":\"Modules\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Modules\",\"index\":false,\"icon\":\"lightbulb\",\"category\":[\"modules\"]},\"readingTime\":{\"minutes\":0.03,\"words\":10},\"filePathRelative\":\"modules/README.md\"}")
+const data = JSON.parse("{\"path\":\"/modules/\",\"title\":\"Modules\",\"lang\":\"nl-NL\",\"frontmatter\":{\"title\":\"Modules\",\"index\":false,\"icon\":\"lightbulb\",\"category\":[\"modules\"]},\"readingTime\":{\"minutes\":0.03,\"words\":10},\"filePathRelative\":\"modules/README.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
