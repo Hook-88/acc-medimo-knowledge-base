@@ -32,9 +32,6 @@ export default defineUserConfig({
       apiKey: "009150d188c840ffc15f7c446866524e",
       indices: [
         {
-          name: "medimo_articles",
-        },
-        {
           name: "medimo_pages",
         },
       ],
