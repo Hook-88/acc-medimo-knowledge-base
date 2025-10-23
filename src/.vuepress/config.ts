@@ -4,7 +4,7 @@ import theme from "./theme.js"
 export default defineUserConfig({
   base: "/",
 
-  lang: "en-US",
+  lang: "nl-NL",
   title: "Medimo kennisbank",
   description: "Kennisbank van Medimo.",
 
