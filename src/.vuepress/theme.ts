@@ -121,6 +121,22 @@ export default hopeTheme({
         },
       },
     },
+
+    docsearch: {
+      appId: "D4MZD1C7ER",
+      apiKey: "009150d188c840ffc15f7c446866524e",
+      indices: [
+        {
+          name: "medimo_pages",
+        },
+      ],
+      locales: {
+        "/": {
+          placeholder: "Zoeken in kennisbank...",
+        },
+      },
+    },
+
     // // Note: This is for testing ONLY!
     // // You MUST generate and use your own comment service in production.
     // comment: {

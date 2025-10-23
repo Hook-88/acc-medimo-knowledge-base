@@ -1,5 +1,4 @@
 import { defineUserConfig } from "vuepress"
-import { docsearchPlugin } from "@vuepress/plugin-docsearch"
 import theme from "./theme.js"
 
 export default defineUserConfig({
@@ -26,22 +25,23 @@ export default defineUserConfig({
 
   theme,
 
-  plugins: [
-    docsearchPlugin({
-      appId: "D4MZD1C7ER",
-      apiKey: "009150d188c840ffc15f7c446866524e",
-      indices: [
-        {
-          name: "medimo_pages",
-        },
-      ],
-      locales: {
-        "/": {
-          placeholder: "Zoeken in kennisbank...",
-        },
-      },
-    }),
-  ],
+  //   plugins: [
+  //     docsearchPlugin({
+  //       appId: "D4MZD1C7ER",
+  //       apiKey: "009150d188c840ffc15f7c446866524e",
+  //       indices: [
+  //         {
+  //           name: "medimo_pages",
+  //         },
+  //       ],
+  //       locales: {
+  //         "/": {
+  //           placeholder: "Zoeken in kennisbank...",
+  //         },
+  //       },
+  //     }),
+  //   ],
+
   // Enable it with pwa
   // shouldPrefetch: false,
 })
