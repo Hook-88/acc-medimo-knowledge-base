@@ -1,5 +1,5 @@
 import { defineUserConfig } from "vuepress"
-
+import { docsearchPlugin } from "@vuepress/plugin-docsearch"
 import theme from "./theme.js"
 
 export default defineUserConfig({
@@ -26,6 +26,22 @@ export default defineUserConfig({
 
   theme,
 
+  plugins: [
+    docsearchPlugin({
+      appId: "YOUR_APP_ID",
+      apiKey: "YOUR_SEARCH_API_KEY",
+      indices: [
+        {
+          name: "medimo_kb_crawler",
+        },
+      ],
+      locales: {
+        "/": {
+          placeholder: "Zoeken in kennisbank...",
+        },
+      },
+    }),
+  ],
   // Enable it with pwa
   // shouldPrefetch: false,
 })

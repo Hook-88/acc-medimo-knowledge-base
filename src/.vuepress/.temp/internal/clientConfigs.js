@@ -18,7 +18,8 @@ import * as clientConfig16 from '/Users/paulushoekjan/repos/vue-press/medimo-kb-
 import * as clientConfig17 from '/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import * as clientConfig18 from '/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/node_modules/@vuepress/plugin-redirect/lib/client/config.js'
 import * as clientConfig19 from '/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/theme-hope/config.js'
-import * as clientConfig20 from '/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/client.ts'
+import * as clientConfig20 from '/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/docsearch/config.js'
+import * as clientConfig21 from '/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/client.ts'
 
 export const clientConfigs = [
   clientConfig0,
@@ -42,4 +43,5 @@ export const clientConfigs = [
   clientConfig18,
   clientConfig19,
   clientConfig20,
+  clientConfig21,
 ].map((m) => m.default).filter(Boolean)

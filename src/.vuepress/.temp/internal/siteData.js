@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"Medimo kennisbank\",\"description\":\"Kennisbank van Medimo.\",\"head\":[[\"script\",{\"src\":\"https://identity.netlify.com/v1/netlify-identity-widget.js\"}]],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"Medimo kennisbank\",\"description\":\"Kennisbank van Medimo.\",\"head\":[[\"meta\",{\"name\":\"algolia-site-verification\",\"content\":\"2A12CAC6C57275C7\"}],[\"script\",{\"src\":\"https://identity.netlify.com/v1/netlify-identity-widget.js\"}]],\"locales\":{}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
