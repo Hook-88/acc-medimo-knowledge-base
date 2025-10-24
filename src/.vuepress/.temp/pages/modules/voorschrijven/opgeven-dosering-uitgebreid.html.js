@@ -1,5 +1,5 @@
 import comp from "/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/pages/modules/voorschrijven/opgeven-dosering-uitgebreid.html.vue"
-const data = JSON.parse("{\"path\":\"/modules/voorschrijven/opgeven-dosering-uitgebreid.html\",\"title\":\"Opgeven dosering: Uitgebreid\",\"lang\":\"nl-NL\",\"frontmatter\":{\"title\":\"Opgeven dosering: Uitgebreid\",\"category\":\"Voorschrijven\",\"order\":10,\"articleType\":\"web\",\"tags\":[\"extern\",\"geleverd\",\"\"]},\"readingTime\":{\"minutes\":0.13,\"words\":38},\"filePathRelative\":\"modules/voorschrijven/opgeven-dosering-uitgebreid.md\"}")
+const data = JSON.parse("{\"path\":\"/modules/voorschrijven/opgeven-dosering-uitgebreid.html\",\"title\":\"Opgeven dosering: Uitgebreid\",\"lang\":\"nl-NL\",\"frontmatter\":{\"title\":\"Opgeven dosering: Uitgebreid\",\"category\":\"Voorschrijven\",\"order\":10,\"articleType\":\"web\",\"tags\":[\"extern\",\"geleverd\"]},\"readingTime\":{\"minutes\":0.13,\"words\":38},\"filePathRelative\":\"modules/voorschrijven/opgeven-dosering-uitgebreid.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

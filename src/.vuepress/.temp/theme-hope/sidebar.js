@@ -1,1 +1,1 @@
-export const sidebarData = {"/app/":["","install"],"/modules/voorschrijven/":["","start-new","change-dosage","stop-medication","opgeven-dosering-regulier"],"/modules/tdr/":["layout","markdown","page","disable","encrypt"]};
+export const sidebarData = {"/app/":["","install"],"/modules/voorschrijven/":["","start-new","change-dosage","stop-medication","opgeven-dosering-regulier","opgeven-dosering-uitgebreid"],"/modules/tdr/":["layout","markdown","page","disable","encrypt"]};

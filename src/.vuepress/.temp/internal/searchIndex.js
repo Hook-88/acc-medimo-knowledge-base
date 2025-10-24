@@ -19,7 +19,9 @@ export const SEARCH_INDEX = [
     "headers": [],
     "path": "/app/",
     "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "MedimoApp"
+    ]
   },
   {
     "title": "App instaleren",
@@ -42,35 +44,63 @@ export const SEARCH_INDEX = [
     ],
     "path": "/app/install.html",
     "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "Installeren,",
+      "App store,",
+      "Play store,",
+      "Apple,",
+      "IOS,",
+      "Android,",
+      "MedimoApp"
+    ]
+  },
+  {
+    "title": "Modules",
+    "headers": [],
+    "path": "/modules/",
+    "pathLocale": "/",
+    "extraFields": [
+      "modules"
+    ]
   },
   {
     "title": "Toedienregistratie",
     "headers": [],
     "path": "/guide/",
     "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "toedienregistratie"
+    ]
   },
   {
     "title": "Disabling layout and features",
     "headers": [],
     "path": "/guide/disable.html",
     "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "disable",
+      "Guide"
+    ]
   },
   {
     "title": "Encryption Article",
     "headers": [],
     "path": "/guide/encrypt.html",
     "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "encryption",
+      "Guide"
+    ]
   },
   {
     "title": "Layout",
     "headers": [],
     "path": "/guide/layout.html",
     "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "Layout",
+      "Guide"
+    ]
   },
   {
     "title": "Markdown Enhance",
@@ -114,7 +144,10 @@ export const SEARCH_INDEX = [
     ],
     "path": "/guide/markdown.html",
     "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "Markdown",
+      "Guide"
+    ]
   },
   {
     "title": "Page Config",
@@ -150,129 +183,20 @@ export const SEARCH_INDEX = [
     ],
     "path": "/guide/page.html",
     "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Modules",
-    "headers": [],
-    "path": "/modules/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Toedienregistratie",
-    "headers": [],
-    "path": "/modules/tdr/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Disabling layout and features",
-    "headers": [],
-    "path": "/modules/tdr/disable.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Encryption Article",
-    "headers": [],
-    "path": "/modules/tdr/encrypt.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Layout",
-    "headers": [],
-    "path": "/modules/tdr/layout.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Markdown Enhance",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Markdown Introduction",
-        "slug": "markdown-introduction",
-        "link": "#markdown-introduction",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Markdown Config",
-        "slug": "markdown-config",
-        "link": "#markdown-config",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Markdown Extension",
-        "slug": "markdown-extension",
-        "link": "#markdown-extension",
-        "children": [
-          {
-            "level": 3,
-            "title": "VuePress Enhancement",
-            "slug": "vuepress-enhancement",
-            "link": "#vuepress-enhancement",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Theme Enhancement",
-            "slug": "theme-enhancement",
-            "link": "#theme-enhancement",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/modules/tdr/markdown.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Page Config",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Page Title",
-        "slug": "page-title",
-        "link": "#page-title",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Page Information",
-        "slug": "page-information",
-        "link": "#page-information",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Page Content",
-        "slug": "page-content",
-        "link": "#page-content",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Components",
-        "slug": "components",
-        "link": "#components",
-        "children": []
-      }
-    ],
-    "path": "/modules/tdr/page.html",
-    "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "Page config",
+      "Guide",
+      "Guide"
+    ]
   },
   {
     "title": "Voorschrijven",
     "headers": [],
     "path": "/modules/voorschrijven/",
     "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "voorschrijven"
+    ]
   },
   {
     "title": "Medicatie wijzigen",
@@ -329,7 +253,16 @@ export const SEARCH_INDEX = [
     ],
     "path": "/modules/voorschrijven/change-dosage.html",
     "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "muteren",
+      "aanpassen",
+      "medicatie",
+      "Wijzigen",
+      "Geneesmiddel",
+      "Muteren",
+      "Dosering aanpassen",
+      "Voorschrijven"
+    ]
   },
   {
     "title": "Opgeven dosering: Regulier",
@@ -379,7 +312,23 @@ export const SEARCH_INDEX = [
     ],
     "path": "/modules/voorschrijven/opgeven-dosering-regulier.html",
     "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "regulier",
+      "standaard",
+      "toedientijden",
+      "Voorschrijven"
+    ]
+  },
+  {
+    "title": "Opgeven dosering: Uitgebreid",
+    "headers": [],
+    "path": "/modules/voorschrijven/opgeven-dosering-uitgebreid.html",
+    "pathLocale": "/",
+    "extraFields": [
+      "extern",
+      "geleverd",
+      "Voorschrijven"
+    ]
   },
   {
     "title": "Medicatie starten",
@@ -473,7 +422,12 @@ export const SEARCH_INDEX = [
     ],
     "path": "/modules/voorschrijven/start-new.html",
     "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "Starten,",
+      "Nieuw,",
+      "Geneesmiddel",
+      "Voorschrijven"
+    ]
   },
   {
     "title": "Medicatie stoppen",
@@ -524,7 +478,137 @@ export const SEARCH_INDEX = [
     ],
     "path": "/modules/voorschrijven/stop-medication.html",
     "pathLocale": "/",
-    "extraFields": []
+    "extraFields": [
+      "Stoppen",
+      "Tijdeljke stop",
+      "Voorschrijven"
+    ]
+  },
+  {
+    "title": "Toedienregistratie",
+    "headers": [],
+    "path": "/modules/tdr/",
+    "pathLocale": "/",
+    "extraFields": [
+      "toedienregistratie"
+    ]
+  },
+  {
+    "title": "Disabling layout and features",
+    "headers": [],
+    "path": "/modules/tdr/disable.html",
+    "pathLocale": "/",
+    "extraFields": [
+      "disable",
+      "Guide"
+    ]
+  },
+  {
+    "title": "Encryption Article",
+    "headers": [],
+    "path": "/modules/tdr/encrypt.html",
+    "pathLocale": "/",
+    "extraFields": [
+      "encryption",
+      "Guide"
+    ]
+  },
+  {
+    "title": "Layout",
+    "headers": [],
+    "path": "/modules/tdr/layout.html",
+    "pathLocale": "/",
+    "extraFields": [
+      "Layout",
+      "Guide"
+    ]
+  },
+  {
+    "title": "Markdown Enhance",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Markdown Introduction",
+        "slug": "markdown-introduction",
+        "link": "#markdown-introduction",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Markdown Config",
+        "slug": "markdown-config",
+        "link": "#markdown-config",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Markdown Extension",
+        "slug": "markdown-extension",
+        "link": "#markdown-extension",
+        "children": [
+          {
+            "level": 3,
+            "title": "VuePress Enhancement",
+            "slug": "vuepress-enhancement",
+            "link": "#vuepress-enhancement",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Theme Enhancement",
+            "slug": "theme-enhancement",
+            "link": "#theme-enhancement",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/modules/tdr/markdown.html",
+    "pathLocale": "/",
+    "extraFields": [
+      "Markdown",
+      "Guide"
+    ]
+  },
+  {
+    "title": "Page Config",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Page Title",
+        "slug": "page-title",
+        "link": "#page-title",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Page Information",
+        "slug": "page-information",
+        "link": "#page-information",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Page Content",
+        "slug": "page-content",
+        "link": "#page-content",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Components",
+        "slug": "components",
+        "link": "#components",
+        "children": []
+      }
+    ],
+    "path": "/modules/tdr/page.html",
+    "pathLocale": "/",
+    "extraFields": [
+      "Page config",
+      "Guide",
+      "Guide"
+    ]
   },
   {
     "title": "",
