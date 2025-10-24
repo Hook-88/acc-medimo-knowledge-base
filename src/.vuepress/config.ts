@@ -1,5 +1,4 @@
 import { defineUserConfig } from "vuepress"
-import { sitemapPlugin } from "@vuepress/plugin-sitemap"
 
 import theme from "./theme.js"
 
@@ -23,12 +22,6 @@ export default defineUserConfig({
       "script",
       { src: "https://identity.netlify.com/v1/netlify-identity-widget.js" },
     ],
-  ],
-
-  plugins: [
-    sitemapPlugin({
-      hostname: "https://acc-medimo-kb.netlify.app",
-    }),
   ],
 
   theme,
