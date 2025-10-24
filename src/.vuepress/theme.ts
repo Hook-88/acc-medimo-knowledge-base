@@ -121,29 +121,21 @@ export default hopeTheme({
         },
       },
     },
-
-    docsearch: {
-      appId: "D4MZD1C7ER",
-      apiKey: "009150d188c840ffc15f7c446866524e",
-      indices: [
+    slimsearch: {
+      //   indexContent: true,
+      suggestion: false,
+      customFields: [
         {
-          name: "medimo_pages",
-          searchParameters: {
-            facetFilters: [],
-          },
+          //   name: "category",
+          getter: (page) => page.frontmatter.category as string,
+          formatter: "Categorie: $content",
         },
         {
-          name: "medimo_articles",
-          searchParameters: {
-            facetFilters: [],
-          },
+          //   name: "tags",
+          getter: (page) => page.frontmatter.tags as string[],
+          formatter: "tags: $content",
         },
       ],
-      locales: {
-        "/": {
-          placeholder: "Zoeken in kennisbank...",
-        },
-      },
     },
 
     // // Note: This is for testing ONLY!
