@@ -46,7 +46,7 @@ Bij het toevoegen van een nieuwe regel wordt de dosering van de voorgaande regel
 
 :::
 
-Pas indien nodig de dosering van de nieuwe regel aan en voeg een nieuwe toe. U kunt maximaal ... regels invoeren. 
+Pas indien nodig de dosering van de nieuwe regel aan en voeg een nieuwe toe. U kunt voor maximaal 31 dagen een dosering invoeren. 
 
 Nadat u de dosering hebt opgegeven, kunt u de medicatie op de gebruikelijke wijze starten. Indien gewenst kunt u gebruik maken van de voorschrijfopties:
 
