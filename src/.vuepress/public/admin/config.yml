@@ -20,7 +20,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Category", name: "category", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Order", name: "order", widget: "number" }
       - label: "Article type"
         name: "articleType"
@@ -33,6 +32,7 @@ collections:
       - label: "Tags"
         name: "tags"
         widget: "list"
+      - { label: "Body", name: "body", widget: "markdown" }
 
   # Voorschrijven
   - name: "voorschrijven"
@@ -44,7 +44,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Category", name: "category", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Order", name: "order", widget: "number" }
       - label: "Article type"
         name: "articleType"
@@ -53,6 +52,8 @@ collections:
         options:
           - app
           - web
+          - geen
       - label: "Tags"
         name: "tags"
         widget: "list"
+      - { label: "Body", name: "body", widget: "markdown" }
