@@ -1,5 +1,4 @@
 <template><div><p>Dit artikel beschrijft hoe je bestaande medicatie stopt. In dit artikel gaan we ervan uit dat je bekend bent met de status en hoe je die opzoekt. Wil u meerdere regels stoppen met dezelfde stop per, dan kunt u ook multistop gebruiken.</p>
-<!-- more -->
 <h2 id="overzicht-medicatiebehandeling-openen" tabindex="-1"><a class="header-anchor" href="#overzicht-medicatiebehandeling-openen"><span>Overzicht medicatiebehandeling openen</span></a></h2>
 <p>Klik in de status op de medicatieregel die je wilt stoppen. Hiermee open je het overzicht medicatiebehandeling.</p>
 <h2 id="starten-met-invoeren-stop" tabindex="-1"><a class="header-anchor" href="#starten-met-invoeren-stop"><span>Starten met invoeren stop</span></a></h2>

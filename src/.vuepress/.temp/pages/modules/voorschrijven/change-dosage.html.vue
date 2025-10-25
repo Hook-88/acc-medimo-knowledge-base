@@ -1,5 +1,4 @@
-<template><div><h1 id="medicatie-wijzigen" tabindex="-1"><a class="header-anchor" href="#medicatie-wijzigen"><span>Medicatie wijzigen</span></a></h1>
-<h2 id="overzicht-medicatiebehandeling-openen" tabindex="-1"><a class="header-anchor" href="#overzicht-medicatiebehandeling-openen"><span>Overzicht medicatiebehandeling openen</span></a></h2>
+<template><div><h2 id="overzicht-medicatiebehandeling-openen" tabindex="-1"><a class="header-anchor" href="#overzicht-medicatiebehandeling-openen"><span>Overzicht medicatiebehandeling openen</span></a></h2>
 <p>Klik in de status op de medicatieregel die je wilt aanpassen. Hiermee open je het overzicht medicatiebehandeling.</p>
 <h2 id="starten-met-wijzigen" tabindex="-1"><a class="header-anchor" href="#starten-met-wijzigen"><span>Starten met wijzigen</span></a></h2>
 <p>In het overzicht medicatiebehandling wordt recht <strong>wijzigen</strong> weergegeven. Hiermee open je het doseerscherm waar de huidige dosering wordt getoond.</p>
