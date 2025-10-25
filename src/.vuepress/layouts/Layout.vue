@@ -20,8 +20,22 @@ onMounted(() => {
 
 <template>
     <Layout>
+        <template #heroAfter>
+            <section class="search-box-wrapper">
+                <SearchBox />
+            </section>
+        </template>
         <template #contentAfter>
             <ArticleFooter />
         </template>
     </Layout>
 </template>
+
+<style scoped>
+.search-box-wrapper {
+    margin: 0 auto;
+    padding: 2rem;
+    display: grid;
+    max-width: 1000px;
+}
+</style>

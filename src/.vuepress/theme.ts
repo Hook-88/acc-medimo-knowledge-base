@@ -124,6 +124,12 @@ export default hopeTheme({
     slimsearch: {
       //   indexContent: true,
       suggestion: false,
+      locales: {
+        "/": {
+          placeholder: "Zoeken in de kennisbank",
+          search: "Zoeken in de kennisbank",
+        },
+      },
       customFields: [
         {
           //   name: "category",

@@ -1,2 +1,7 @@
-// you can change colors here
-$content-width: 800px;
+:root {
+    --vp-c-accent: #1c4b84;
+    /* your main color */
+    --vp-c-accent-hover: #1c4b84;
+    /* hover / lighter tone */
+    --vp-c-hero-end: #ff6600;
+}

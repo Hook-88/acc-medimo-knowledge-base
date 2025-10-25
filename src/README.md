@@ -9,24 +9,16 @@ heroImage: /assets/image/enovation-medimo-logo.webp
 #   background-attachment: fixed
 heroText: Medimo kennisbank
 tagline: Voor Beschrijvingen, Hulpkaarten, FAQ's en Video's.
-actions:
-  - text: How to Use
-    icon: lightbulb
-    link: ./demo/
-    type: primary
+# actions:
+#   - text: How to Use
+#     icon: lightbulb
+#     link: ./demo/
+#     type: primary
 
-  - text: Docs
-    link: ./guide/
+#   - text: Docs
+#     link: ./guide/
 
 highlights:
-  - header: Zoek hier in de kennisbank
-    # image: /assets/image/box.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
-    # highlights:
-    #   - title: Run <code>pnpm create vuepress-theme-hope hope-project</code> to create a new project with this theme.
-    #   - title: Run <code>pnpm create vuepress-theme-hope add .</code> in your project root to create a new project with this theme.
-
   - header: Bekijk per categorie
     description: Klik hieronder op de categorie om de beschikbare artikelen na te bekijken.
     # image: /assets/image/markdown.svg

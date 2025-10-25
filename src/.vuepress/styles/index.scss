@@ -30,3 +30,17 @@ main.vp-page.vp-project-home {
 #markdown-content figure {
     margin: 0;
 }
+
+#main-title.vp-hero-title {
+    color: #42b983;
+    /* Replace with your desired color */
+}
+
+.vp-hero-title {
+    background: linear-gradient(120deg,
+            var(--vp-c-accent-hover),
+            // var(--vp-c-accent) 30%,
+            #1a3e70 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+}
