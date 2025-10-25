@@ -29,7 +29,7 @@ collections:
         options:
           - app
           - web
-          - none
+          - geen
       - label: "Tags"
         name: "tags"
         widget: "list"
