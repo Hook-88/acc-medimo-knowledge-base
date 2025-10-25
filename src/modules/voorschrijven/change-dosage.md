@@ -15,8 +15,6 @@ tag:
   - Muteren
   - Dosering aanpassen
 ---
-# Medicatie wijzigen
-
 ## Overzicht medicatiebehandeling openen
 
 Klik in de status op de medicatieregel die je wilt aanpassen. Hiermee open je het overzicht medicatiebehandeling.
