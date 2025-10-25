@@ -1,9 +1,8 @@
 ---
 author: false
 title: Medicatie wijzigen
-category:
-  - Voorschrijven
-order: 8
+category: Voorschrijven
+order: 6
 articleType: web
 tags:
   - muteren
