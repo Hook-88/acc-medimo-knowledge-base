@@ -12,13 +12,47 @@ U kunt ook per dag een dosering opgeven. Dit gebruikt u bijvoorbeeld om de doser
 
 ## Handmatig invoeren dosering
 
-In de weergave handmatig geeft u per dag (en tijd) een dosering op. Elke regel stelt een dag voor. Met **Regel toevoegen** voegt u een nieuw regel toe. 
+In de weergave handmatig geeft u per dag (en tijd) een dosering op. Elke regel stelt een dag voor. 
 
-Ook kunt u de **tabtoets** gebruiken om naar de volgende toedientijd te gaan. Gebruikt u die in vakje voor de laatste toedientijd, dan wordt automatisch een nieuwe regel toegevoegd.   
+![Dosering handmatig](/uploads/dosering-handmatig-nieuw.png "Dosering handmatig")
 
-Indien nodig kunt de toedientijden aanpassen en/of uitbreiden(max. 6). Klik op de toedientijd om deze aan te passen. Gebruik het plusje dat rechts wordt weergegeven om een toedientijd toe te voegen.
+Volg de onderstaande stappen om de dosering handmatig in te voeren:
 
-Nadat u de dosering hebt opgegeven, kunt u de medicatie op de gebruikelijke wijze starten. 
+### Start per opgeven
+
+Links wordt de startdatum getoond. Controleer deze en pas zo nodig aan via **Start per** voordat u de dosering invoert.
+
+### Dosering eerste dag invoeren
+
+Voer de dosering voor de gewenste toedientijd in. Indien nodig kunt de toedientijden aanpassen en/of uitbreiden(max. 6). 
+
+Klik op de toedientijd om deze aan te passen. Gebruik het plusje dat rechts wordt weergegeven om een toedientijd toe te voegen.
+
+### Nieuwe regel toevoegen
+
+Met **Regel toevoegen** voegt u een nieuw regel toe. Ook kunt u met de **tabtoets** naar het volgende toedientijdvakje gaan. Gebruikt u de tabtoets in vakje van de laatste toedientijd, dan wordt automatisch een nieuwe regel toegevoegd.   
+
+Bij het toevoegen van een nieuwe regel wordt de dosering van de voorgaande regel gekopieërd.
+
+:::tabs
+
+@tab Nieuwe regel toevoegen
+
+![Dosering handmatig - Pijl naar Nieuwe regel toevoegen](/uploads/dosering-handmatig-pijl-nieuwe-regel.png "Dosering handmatig - Pijl naar Nieuwe regel toevoegen")
+
+@tab Nieuwe regel toegevoegd
+
+![Dosering handmatig - Nieuwe regel toegevoegd](/uploads/dosering-handmatig-nieuwe-regel-toegevoegd.png "Dosering handmatig - Nieuwe regel toegevoegd")
+
+:::
+
+Pas indien nodig de dosering van de nieuwe regel aan en voeg een nieuwe toe. U kunt maximaal ... regels invoeren. 
+
+Nadat u de dosering hebt opgegeven, kunt u de medicatie op de gebruikelijke wijze starten. Indien gewenst kunt u gebruik maken van de voorschrijfopties:
+
+* **Andere voorschrijver**
+* **Extern geleverd**
+* **Continu schema**
 
 ## Continu schema
 
