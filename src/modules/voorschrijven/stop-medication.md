@@ -2,7 +2,7 @@
 title: Medicatie stoppen
 icon: game-icons:stop-sign
 category: Voorschrijven
-order: 9
+order: 7
 tag:
   - Stoppen
   - Tijdeljke stop
