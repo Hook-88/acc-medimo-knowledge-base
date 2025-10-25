@@ -7,8 +7,7 @@ articleType: geen
 contributors: false
 icon: cib:app-store
 pageInfo: false
-category:
-  - voorschrijven
+category: Voorschrijven
 comment: false
 ---
 
