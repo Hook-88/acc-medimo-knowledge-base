@@ -1,7 +1,7 @@
 ---
 title: "Opgeven dosering: Uitgebreid"
 category: Voorschrijven
-order: 5
+order: 3
 articleType: web
 tags:
   - extern
