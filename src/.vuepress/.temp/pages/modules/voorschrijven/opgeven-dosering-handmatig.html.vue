@@ -22,7 +22,7 @@
 <figure><img src="/uploads/dosering-handmatig-nieuwe-regel-toegevoegd.png" alt="Dosering handmatig - Nieuwe regel toegevoegd" tabindex="0" loading="lazy"><figcaption>Dosering handmatig - Nieuwe regel toegevoegd</figcaption></figure>
 </template>
 </Tabs>
-<p>Pas indien nodig de dosering van de nieuwe regel aan en voeg een nieuwe toe. U kunt maximaal ... regels invoeren.</p>
+<p>Pas indien nodig de dosering van de nieuwe regel aan en voeg een nieuwe toe. U kunt voor maximaal 31 dagen een dosering invoeren.</p>
 <p>Nadat u de dosering hebt opgegeven, kunt u de medicatie op de gebruikelijke wijze starten. Indien gewenst kunt u gebruik maken van de voorschrijfopties:</p>
 <ul>
 <li><strong>Andere voorschrijver</strong></li>

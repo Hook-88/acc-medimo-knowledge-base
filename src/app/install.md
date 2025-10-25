@@ -32,3 +32,7 @@ Dit artikel beschrijft hoe je de MedimoApp installeert op je toestel.
 De MedimoApp is te gebruiken op de volgende besturingsystemen:
 
 ### Apple iOS
+
+hier een test video
+
+<VimeoPlayer url="https://vimeo.com/1050127882?share=copy&fl=sv&fe=ci" />
