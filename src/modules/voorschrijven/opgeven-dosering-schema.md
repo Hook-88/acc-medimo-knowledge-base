@@ -1,7 +1,7 @@
 ---
 title: "Opgeven dosering: Schema"
 category: Voorschrijven
-order: 6
+order: 4
 articleType: web
 tags:
   - opbouw
