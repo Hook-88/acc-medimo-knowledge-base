@@ -8,7 +8,7 @@ tags:
 ---
 U kunt ook per dag een dosering opgeven. Dit gebruikt u bijvoorbeeld om de dosering van trombosemedicatie handmatig in te voeren. 
 
-**Let op!** Wordt er gebruik gemaakt van een Trombosedienst koppeling, dan wordt de dosering vanuit daar overgenomen in Medimo. Betreffende medicatie dient in dat geval op een specifieke wijze te worden ingevoerd. Voer de dosering in dat geval NIET handmatig in.
+**Let op!** Wordt er gebruik gemaakt van een **Trombosedienst koppeling**, dan wordt de dosering vanuit daar overgenomen in Medimo. Betreffende medicatie dient in dat geval op een specifieke wijze te worden ingevoerd. Voer de dosering in dat geval NIET handmatig in.
 
 ## Handmatig invoeren dosering
 
