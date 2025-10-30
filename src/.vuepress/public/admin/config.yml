@@ -11,9 +11,37 @@ editor:
   preview: false
 
 collections:
+  # app
   - name: "medimoapp"
     label: "MedimoApp"
     folder: "src/app"
+    create: true
+    slug: "{{slug}}"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Order", name: "order", widget: "number" }
+      - label: "Article type"
+        name: "articleType"
+        widget: "select"
+        multiple: false
+        options:
+          - app
+          - web
+          - geen
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        hint: "To embed a Vimeo video: <VimeoPlayer url='https://vimeo.com/123456789' />"
+
+  # aan de slag
+  - name: "aandeslag"
+    label: "Aan de slag"
+    folder: "src/aan-de-slag"
     create: true
     slug: "{{slug}}"
     format: "frontmatter"

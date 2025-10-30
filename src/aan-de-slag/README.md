@@ -1,13 +1,13 @@
 ---
 editLink: false
 lastUpdated: false
-title: MedimoApp
+title: Aan de slag
 order: 0
 articleType: geen
 contributors: false
 icon: cib:app-store
 pageInfo: false
-category: MedimoApp
+category: Aan de slag
 comment: false
 ---
 
