@@ -1,7 +1,18 @@
-:root {
-    --vp-c-accent: #1c4b84;
-    /* your main color */
-    --vp-c-accent-hover: #1c4b84;
-    /* hover / lighter tone */
-    --vp-c-hero-end: #ff6600;
+// you can change colors here
+
+// accent-bg
+$vp-c-accent-bg: #1a3e70;
+
+[data-theme="dark"] {
+    --vp-c-accent-bg: #2d5ea3;
+}
+
+
+// remove gradient
+.vp-hero-title {
+    background: none !important;
+    -webkit-background-clip: unset !important;
+    background-clip: unset !important;
+    -webkit-text-fill-color: inherit !important;
+    color: var(--vp-c-accent-bg) !important;
 }

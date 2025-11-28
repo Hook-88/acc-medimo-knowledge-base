@@ -11,36 +11,3 @@ a.header-anchor {
         line-height: 1em;
     }
 }
-
-.vp-page {
-    // background-color: red;
-    width: 800px;
-}
-
-main.vp-page.vp-project-home {
-    // background-color: red;
-    width: 100% !important
-}
-
-#markdown-content {
-    // background-color: red;
-    max-width: 800px;
-}
-
-#markdown-content figure {
-    margin: 0;
-}
-
-#main-title.vp-hero-title {
-    color: #42b983;
-    /* Replace with your desired color */
-}
-
-.vp-hero-title {
-    background: linear-gradient(120deg,
-            var(--vp-c-accent-hover),
-            // var(--vp-c-accent) 30%,
-            #1a3e70 100%) !important;
-    -webkit-background-clip: text !important;
-    -webkit-text-fill-color: transparent !important;
-}
