@@ -91,3 +91,30 @@ collections:
         name: "body"
         widget: "markdown"
         hint: "To embed a Vimeo video: <VimeoPlayer url='https://vimeo.com/123456789' />"
+
+  # Opgeven dosering
+  - name: "opgevendosering"
+    label: "Opgeven dosering"
+    folder: "src/modules/voorschrijven/opgeven-dosering/"
+    create: true
+    slug: "{{slug}}"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Order", name: "order", widget: "number" }
+      - label: "Article type"
+        name: "articleType"
+        widget: "select"
+        multiple: false
+        options:
+          - app
+          - web
+          - geen
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        hint: "To embed a Vimeo video: <VimeoPlayer url='https://vimeo.com/123456789' />"
