@@ -20,7 +20,9 @@ Dit artikel beschrijft hoe u nieuwe medicatie start. Nieuwe medicatie-opdrachten
 
 In de status wordt de knop **Nieuw** getoond. Hiermee start u met het invoeren van nieuwe medicatie.
 
-::: @tab
+::: @tabs
+
+@tab Status cliënt
 
 
 
