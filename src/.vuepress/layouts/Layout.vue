@@ -38,4 +38,24 @@ onMounted(() => {
     display: grid;
     max-width: 1000px;
 }
+
+.search-box-wrapper :deep(.slimsearch-button) {
+    padding: 1.3rem;
+}
+
+.search-box-wrapper :deep(.slimsearch-button svg) {
+    transform: scale(1.5);
+    /* Makes it 1.5x larger */
+}
+
+.search-box-wrapper :deep(.slimsearch-button .slimsearch-key-hints) {
+    transform: scale(1.5);
+    margin-left: 1rem;
+    /* Makes it 1.5x larger */
+}
+
+.search-box-wrapper :deep(.slimsearch-placeholder) {
+    font-size: 1.6rem;
+    margin-left: .5rem;
+}
 </style>

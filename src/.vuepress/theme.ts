@@ -25,6 +25,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
+  pure: true,
   //   footer: "Default footer",
 
   displayFooter: true,
@@ -130,6 +131,7 @@ export default hopeTheme({
           search: "Zoeken in de kennisbank",
         },
       },
+
       customFields: [
         {
           //   name: "category",
@@ -140,6 +142,11 @@ export default hopeTheme({
           //   name: "tags",
           getter: (page) => page.frontmatter.tags as string[],
           formatter: "tags: $content",
+        },
+        {
+          //   name: "title",
+          getter: (page) => page.frontmatter.title,
+          formatter: "Artikel: $content",
         },
       ],
     },
