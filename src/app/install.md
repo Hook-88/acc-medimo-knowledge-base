@@ -1,16 +1,16 @@
 ---
-# This is the title of the article
-title: App instaleren
-# This is the icon of the page
-icon: icon-park-solid:play
-# This control sidebar order
+sticky: true
 order: 1
-# # Set writing time
-# date: 2020-01-01
-# A page can have multiple categories
-category:
-  - MedimoApp
-# A page can have multiple tags
+articleType: app
+star: true
+title: App instaleren
+tags:
+  - instaleren
+  - app
+  - android
+  - ios
+  - apple
+icon: icon-park-solid:play
 tag:
   - Installeren,
   - App store,
@@ -18,11 +18,7 @@ tag:
   - Apple,
   - IOS,
   - Android,
-# this page is sticky in article list
-sticky: true
-# this page will appear in starred articles
-star: true
-articleType: app
+category: MedimoApp
 ---
 
 Dit artikel beschrijft hoe je de MedimoApp installeert op je toestel.
