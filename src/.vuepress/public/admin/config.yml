@@ -65,14 +65,22 @@ collections:
         widget: "markdown"
         hint: "To embed a Vimeo video: <VimeoPlayer url='https://vimeo.com/123456789' />"
 
-  # Voorschrijven
-  - name: "voorschrijven (main)"
+  # Voorschrijven (parent folder only)
+  - name: "voorschrijven"
     label: "Voorschrijven"
     folder: "src/modules/voorschrijven"
     create: true
     slug: "{{slug}}"
     format: "frontmatter"
+    # This will only show files directly in this folder, not in subfolders
+    filter: { field: "collection", value: "voorschrijven" }
     fields:
+      - {
+          label: "Collection",
+          name: "collection",
+          widget: "hidden",
+          default: "voorschrijven",
+        }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Category", name: "category", widget: "string" }
       - { label: "Order", name: "order", widget: "number" }
@@ -90,16 +98,22 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
-        hint: "To embed a Vimeo video: <VimeoPlayer url='https://vimeo.com/123456789' />"
 
-  # Opgeven dosering
+  # Opgeven dosering (subfolder)
   - name: "opgevendosering"
-    label: "Voorschrijven > Opgeven dosering"
-    folder: "src/modules/voorschrijven/opgeven-dosering/"
+    label: "Voorschrijven → Opgeven Dosering"
+    folder: "src/modules/voorschrijven/opgeven-dosering"
     create: true
     slug: "{{slug}}"
     format: "frontmatter"
+    filter: { field: "collection", value: "opgevendosering" }
     fields:
+      - {
+          label: "Collection",
+          name: "collection",
+          widget: "hidden",
+          default: "opgevendosering",
+        }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Category", name: "category", widget: "string" }
       - { label: "Order", name: "order", widget: "number" }
@@ -117,4 +131,3 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
-        hint: "To embed a Vimeo video: <VimeoPlayer url='https://vimeo.com/123456789' />"
