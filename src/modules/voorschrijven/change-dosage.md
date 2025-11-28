@@ -2,7 +2,7 @@
 author: false
 title: Medicatie wijzigen
 category: Voorschrijven
-order: 6
+order: 3
 articleType: web
 tags:
   - muteren
@@ -15,6 +15,7 @@ tag:
   - Muteren
   - Dosering aanpassen
 ---
+
 ## Medicatie wijzigen
 
 Als de dosering moet worden aangepast, dient u de medicatie in Medimo te wijzigen. Volg daarvoor de stappen hieronder.

@@ -2,7 +2,7 @@
 title: Medicatie stoppen
 icon: game-icons:stop-sign
 category: Voorschrijven
-order: 7
+order: 4
 tag:
   - Stoppen
   - Tijdeljke stop
@@ -13,6 +13,7 @@ tags:
   - nader
   - order
 ---
+
 Dit artikel beschrijft hoe je bestaande medicatie stopt. In dit artikel gaan we ervan uit dat je bekend bent met de status en hoe je die opzoekt. Wil u meerdere regels stoppen met dezelfde stop per, dan kunt u ook multistop gebruiken.
 
 ## Overzicht medicatiebehandeling openen

@@ -1,7 +1,7 @@
 ---
 title: "Opgeven dosering: Regulier"
 category: Voorschrijven
-order: 2
+order: 1
 articleType: web
 tags:
   - regulier

@@ -1,12 +1,13 @@
 ---
 title: "Opgeven dosering: Schema"
 category: Voorschrijven
-order: 4
+order: 3
 articleType: web
 tags:
   - opbouw
   - afbouw
 ---
+
 In de weergave **Schema** kunt u per datum een tijd een andere dosering in laten gaan. Hiermee kunt u bijvoorbeeld een op- of afbouwschema invoeren. Ook kunt u gebruik maken van extra opties zoals die in de weergave **uitgebreid**.
 
 ## Invoeren schema
@@ -21,7 +22,7 @@ Links wordt de **Start per** getoond. Deze is vooringevuld en kunt u desgewenst 
 
 ### Dosering van eerste doseerregel invoeren
 
-Dit is de dosering van de eerste stap in het schema. 
+Dit is de dosering van de eerste stap in het schema.
 
 ![Weergave schema - Dosering eerste regel omlijnd](/uploads/weergave-schema-toedientijden-omlijnd.png "Weergave schema - Dosering eerste regel omlijnd")
 
@@ -120,6 +121,6 @@ Net als in de weergave **uitgebreid** kunt u afwijken van de standaard toedienti
 
 In de weergave **Schema** kunt u gebruik maken van dezelfde opties als in de weergave Uitgebreid. Deze zijn:
 
-* Aanpassen toedienroute.
-* Andere voorschrijver.
-* Extern geleverd.
+- Aanpassen toedienroute.
+- Andere voorschrijver.
+- Extern geleverd.

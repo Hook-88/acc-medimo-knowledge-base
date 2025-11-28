@@ -1,5 +1,5 @@
 import comp from "/Users/paulushoekjan/repos/vue-press/medimo-kb-theme-hope/src/.vuepress/.temp/pages/modules/voorschrijven/stop-medication.html.vue"
-const data = JSON.parse("{\"path\":\"/modules/voorschrijven/stop-medication.html\",\"title\":\"Medicatie stoppen\",\"lang\":\"nl-NL\",\"frontmatter\":{\"title\":\"Medicatie stoppen\",\"icon\":\"game-icons:stop-sign\",\"category\":\"Voorschrijven\",\"order\":7,\"tag\":[\"Stoppen\",\"Tijdeljke stop\"],\"articleType\":\"web\",\"tags\":[\"stop\",\"stno\",\"nader\",\"order\"]},\"readingTime\":{\"minutes\":0.81,\"words\":242},\"filePathRelative\":\"modules/voorschrijven/stop-medication.md\"}")
+const data = JSON.parse("{\"path\":\"/modules/voorschrijven/stop-medication.html\",\"title\":\"Medicatie stoppen\",\"lang\":\"nl-NL\",\"frontmatter\":{\"title\":\"Medicatie stoppen\",\"icon\":\"game-icons:stop-sign\",\"category\":\"Voorschrijven\",\"order\":4,\"tag\":[\"Stoppen\",\"Tijdeljke stop\"],\"articleType\":\"web\",\"tags\":[\"stop\",\"stno\",\"nader\",\"order\"]},\"readingTime\":{\"minutes\":0.81,\"words\":242},\"filePathRelative\":\"modules/voorschrijven/stop-medication.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
