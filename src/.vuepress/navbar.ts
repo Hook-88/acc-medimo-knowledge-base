@@ -2,6 +2,7 @@ import { navbar } from "vuepress-theme-hope"
 
 export default navbar([
   "/",
+  "/aan-de-slag/",
   {
     text: "Modules",
     icon: "lightbulb",

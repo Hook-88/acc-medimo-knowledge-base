@@ -29,6 +29,7 @@ export default sidebar({
   "/app/": "structure",
   "/modules/voorschrijven/": "structure",
   "/modules/tdr/": "structure",
+  "/aan-de-slag/": "structure",
 
   "/": [""],
 })

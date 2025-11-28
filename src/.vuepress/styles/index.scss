@@ -11,3 +11,18 @@ a.header-anchor {
         line-height: 1em;
     }
 }
+
+// for slimsearch, disable buildin results::after
+
+li.slimsearch-record-matches:has(.title-icon) {
+    display: none;
+}
+
+div.slimsearch-record-title {
+    font-size: 1.2rem;
+}
+
+// Figure for images
+figure {
+    margin: 0;
+}
