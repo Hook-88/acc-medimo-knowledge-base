@@ -4,6 +4,9 @@ order: 1
 articleType: web
 star: true
 title: Medicatie starten
+tags:
+  - medicatie-opdracht
+  - voorschrift
 icon: icon-park-solid:play
 tag:
   - Starten,
@@ -11,11 +14,17 @@ tag:
   - Geneesmiddel
 category: Voorschrijven
 ---
-Dit artikel beschrijft hoe je nieuwe medicatie start. In dit artikel gaan we ervan uit dat je bekend bent met de status en hoe je die opzoekt.
+Dit artikel beschrijft hoe u nieuwe medicatie start. Nieuwe medicatie-opdrachten voert u in vanuit de **Status** van de cliënt. Zorg dat u bekend bent met het opzoeken van de status voordat u dit artikel leest.
 
 ## Starten met voorschrijven
 
-In de status wordt de knop **Nieuw** getoond. Hiermee start je met het invoeren van nieuwe medicatie.
+In de status wordt de knop **Nieuw** getoond. Hiermee start u met het invoeren van nieuwe medicatie.
+
+::: @tab
+
+
+
+:::
 
 ## Medicatie selecteren
 
