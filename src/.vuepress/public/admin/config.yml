@@ -73,7 +73,7 @@ collections:
     slug: "{{slug}}"
     format: "frontmatter"
     # This will only show files directly in this folder, not in subfolders
-    filter: { field: "collection", value: "voorschrijven" }
+    # filter: { field: "collection", value: "voorschrijven" }
     fields:
       - {
           label: "Collection",
@@ -106,7 +106,7 @@ collections:
     create: true
     slug: "{{slug}}"
     format: "frontmatter"
-    filter: { field: "collection", value: "opgevendosering" }
+    # filter: { field: "collection", value: "opgevendosering" }
     fields:
       - {
           label: "Collection",
